@@ -11,7 +11,7 @@
     <h1 align="center">ddev-bun</h1>
 </div>
 
-[![tests](https://github.com/Morgy93/ddev-bun/actions/workflows/tests.yml/badge.svg)](https://github.com/Morgy93/ddev-bun/actions/workflows/tests.yml)
+[![tests](https://github.com/OpenForgeProject/ddev-bun/actions/workflows/tests.yml/badge.svg)](https://github.com/OpenForgeProject/ddev-bun/actions/workflows/tests.yml)
 ![project is maintained](https://img.shields.io/maintenance/yes/2024.svg)
 
 ## What is Bun?
@@ -28,7 +28,7 @@ YouTube: [Bun 1.0 is here](https://www.youtube.com/watch?v=BsnCpESUEqM)
 ## Installation
 
 ```shell
-ddev add-on get Morgy93/ddev-bun
+ddev add-on get OpenForgeProject/ddev-bun
 ddev restart
 ```
 
