@@ -4,7 +4,7 @@ setup() {
   export TESTDIR=~/tmp/test-bun
   mkdir -p $TESTDIR
   export PROJNAME=test-bun
-  export DDEV_ADDON=Morgy93/ddev-bun
+  export DDEV_ADDON=OpenForgeProject/ddev-bun
   export DDEV_NON_INTERACTIVE=true
   ddev delete -Oy ${PROJNAME} >/dev/null 2>&1 || true
   cd "${TESTDIR}"
